@@ -1,0 +1,16 @@
+PODS:
+  - DryLocalizable-iOS (0.0.1)
+
+DEPENDENCIES:
+  - DryLocalizable-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  DryLocalizable-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DryLocalizable-iOS: be70ebaac6cae5b754dd327db30e019fa582f7f2
+
+PODFILE CHECKSUM: 1eb3b032f97d0c95c8abb571eb842d19a8a62019
+
+COCOAPODS: 1.7.4
